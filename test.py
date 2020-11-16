@@ -2,3 +2,4 @@
 
 sql = "update class1 set sex='m' where name='Emma';"
 print(sql)
+print('asdadasd')
